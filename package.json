@@ -2,7 +2,10 @@
   "name": "@jacktown/simple-date-format",
   "version": "0.1.0",
   "description": "a simple date formatter for js",
-  "repository": "jacktown11/simple-date-format",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jacktown11/simple-date-format.git"
+  },
   "homepage": "https://github.com/jacktown11/simple-date-format",
   "main": "index.js",
   "scripts": {
@@ -12,6 +15,6 @@
     "date",
     "format"
   ],
-  "author": "jacktown<https://jacktown11.github.io>",
+  "author": "jacktown (https://jacktown11.github.io)",
   "license": "ISC"
 }
